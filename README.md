@@ -1,6 +1,6 @@
 # Python Projects
 
-# scanner.py
+# [scanner.py](https://github.com/divyank50/Python-projects/blob/main/scanner.py)
 Is a simple network scanner script that uses the `scapy` library to ping IP addresses within a specified subnet and identify active hosts. It provides two functions: `ping_host` and `scan_network`.
 
 The `ping_host` function sends an ICMP echo request (ping) to a single IP address and returns `True` if the host responds, or `False` otherwise.
